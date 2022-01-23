@@ -1,4 +1,9 @@
 # ethereum-genkey
 
-npm i --save
-node genkey.js
+## setup
+
+> npm i --save
+
+## execute
+
+> node genkey.js
